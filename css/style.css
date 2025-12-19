@@ -136,6 +136,8 @@ p {
 .btn-large {
   font-size: 1.15rem;
   margin-bottom: 1.8rem;
+  margin-left: 10px;
+  margin-right: 10px;
   text-align: center;
   font-weight: 300;
   text-decoration: none;
