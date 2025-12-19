@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Artifacts / outputs
+.generated/
+.generated/**
+.generated-test/
+.generated-test/**
+output/
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+.tmp/
